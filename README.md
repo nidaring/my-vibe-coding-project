@@ -35,7 +35,7 @@ _Pick one in Module 2: no switching after M2._
 2. **Real data**: domain metrics on screen, no placeholders
 3. **User voice**: real verbatim quotes
 
-___
+---
 
 ## How to submit
 
